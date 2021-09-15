@@ -1,7 +1,6 @@
 # Rark's Status
 
 ## 自己紹介
-PocketMine-MPのプラグイン作成、ちょっとしたwebサイトの作成をやってる人です。<br>
 永遠の数弱。<br>
 
 ## GitHub
