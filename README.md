@@ -6,8 +6,13 @@
 
 <pre width=70% height="200"><strong>いけめんです☆
 
-</strong></pre>
 
+
+
+
+
+
+</strong></pre>
 <div width=50%>
 	<table align="left">
 		<tr>
