@@ -4,7 +4,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=478 align="right"/>
 </a>
 
-<pre width=70% height="200"><strong>いけめんです☆
+<pre width=70% height="200"><strong><font face="cursive">いけめんです☆
 
 
 
@@ -41,3 +41,4 @@
 <a href="graph">
 	<img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
 </a>
+</font>
