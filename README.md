@@ -18,7 +18,7 @@
 
 
 </pre>
-<img src="" alt="" width="10" height="3" align="left">
+<img src="" alt="" width="5" height="1" align="left">
 
 <table align="left">
   <tr>
@@ -32,7 +32,7 @@
     </table>
 </table>
       
-<img src="" alt="" width="10" height="3" align="left">
+<img src="" alt="" width="10" height="1" align="left">
  
 <table align="left">
   <tr>
