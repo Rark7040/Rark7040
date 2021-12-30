@@ -34,7 +34,7 @@
  
 <table align="left">
   <tr>
-    <td> <strong> 好きな言語 </strong>
+    <td> <strong><div align="center">好きな言語</div> </strong>
   <tr>
     <td> <table>
     <tr><td> Rust
