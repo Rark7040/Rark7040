@@ -10,13 +10,13 @@
 </a>
 
 <table>
-  <tr><td>### GENRE
+  <tr><td> <strong> GENRE</strong>
   <table>
-    <tr><td> <strong> PocketMine-MP </strong>
-    <tr><td> <strong> Unity </strong>
-    <tr><td> <strong> ConsoleApp </strong>
-    <tr><td> <strong> Mico Car </strong>
-  </table>
+    <tr><td> PocketMine-MP
+    <tr><td> <strong> Unity
+    <tr><td> <strong> ConsoleApp
+    <tr><td> <strong> Mico Car
+  </table>                                    
 </table>
 
 
