@@ -14,7 +14,7 @@
 
 </strong></pre>
 <div width=50%>
-	<table align="left">
+	<table align="left" height=200>
 		<tr>
 			<td><strong><div align="center">やってること</div></strong>
 		<tr>
@@ -26,7 +26,7 @@
 		</table>
 	</table>
 	<img src="" alt="" width="10" height="1" align="left">
-	<table align="left">
+	<table align="left" height=200>
 		<tr>
 		<td> <strong><div align="center">好きな言語</div> </strong>
 		<tr>
