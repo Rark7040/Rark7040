@@ -10,5 +10,5 @@
 </a>
 
 <a href="graph">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100% height=60% />
+  <img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100% height=1000% />
 </a>
