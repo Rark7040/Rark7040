@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=51% align="right"/>
 </a>
 
-<table>
+<table align="right">
   <tr><td> <strong> やってること </strong> <td> <strong> よく使う言語 </strong>
   <tr>
     <td> <table>
