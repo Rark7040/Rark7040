@@ -9,20 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=51% align="right"/>
 </a>
 
-<table align="left">
-  <tr>
-    <td> <strong> やってること </strong>
-  <tr>
-    <td> <table>
-    <tr><td> PocketMine-MP
-    <tr><td> Unity
-    <tr><td> ConsoleApp
-    <tr><td> Mico Car
-    </table>
-</table>
+
 <pre>
 さいきょう つよつよ いけめんpmmper
-</pre>
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
@@ -34,6 +23,19 @@
     <tr><td> Mico Car
     </table>
 </table>
+<table align="left">
+  <tr>
+    <td> <strong> やってること </strong>
+  <tr>
+    <td> <table>
+    <tr><td> PocketMine-MP
+    <tr><td> Unity
+    <tr><td> ConsoleApp
+    <tr><td> Mico Car
+    </table>
+</table>
+</pre>
+
 
 
 <a href="graph">
