@@ -14,7 +14,7 @@
 
 </strong></pre>
 
-<div = align="left" width=500>
+<div = align="left" width=700>
 	<table height=200 width=240>
 		<tr>
 			<td><strong><div align="center">やってること</div></strong>
