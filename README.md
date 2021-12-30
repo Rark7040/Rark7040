@@ -1,4 +1,14 @@
 ## 自己紹介
+|№|色|値|
+|:--:|:--:|:--:|
+|1|white|#ffffff|
+|2|black|#000000|
+|3|red|#ff0000|
+|4|blue|#0000ff|
+|5|yellow|#ffff00|
+|6|gree|#008000|
+|7|orange|#ffa500|
+|8|pink|#ffc0cb|
 永遠の数弱。<br>
 <br>
 <br>
@@ -18,16 +28,6 @@
   - Mico Car 
 </div
 
-|№|色|値|
-|:--:|:--:|:--:|
-|1|white|#ffffff|
-|2|black|#000000|
-|3|red|#ff0000|
-|4|blue|#0000ff|
-|5|yellow|#ffff00|
-|6|gree|#008000|
-|7|orange|#ffa500|
-|8|pink|#ffc0cb|
 
 <a href="graph">
   <img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
