@@ -34,13 +34,12 @@
  
 <table align="left">
   <tr>
-    <td> <strong> やってること </strong>
+    <td> <strong> 好きな言語 </strong>
   <tr>
     <td> <table>
-    <tr><td> PocketMine-MP
-    <tr><td> Unity
-    <tr><td> ConsoleApp
-    <tr><td> Mico Car
+    <tr><td> Rust
+    <tr><td> C#
+    <tr><td> PHP
     </table>
 </table>
       
