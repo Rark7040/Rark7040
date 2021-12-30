@@ -30,7 +30,7 @@
     <tr><td> Mico Car
     </table>
 </table>
-     
+文字と     文字の間に     スペース
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
