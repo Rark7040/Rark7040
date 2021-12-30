@@ -4,7 +4,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=478 align="right"/>
 </a>
 
-<pre width=70% height="200"><strong><font face="cursive">いけめんです☆
+<pre width=70% height="200"><b>いけめんです☆
 
 
 
@@ -12,12 +12,12 @@
 
 
 
-</strong></pre>
+</b></pre>
 
 <div = align="left">
 	<table align="left" height=200>
 		<tr>
-			<td><strong><div align="center">やってること</div></strong>
+			<td><b><div align="center">やってること</div></b>
 		<tr>
 		<td> <table>
 			<tr><td> PocketMine-MP
@@ -29,7 +29,7 @@
 	<img src="" alt="" width=10 height=1 align="left">
 	<table align="left" height=200>
 		<tr>
-			<td> <strong><div align="center">好きな言語</div> </strong>
+			<td> <b><div align="center">好きな言語</div> </b>
 		<tr>
 		<td> <table>
 			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20 height=20 align="left"> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,4 +41,3 @@
 <a href="graph">
 	<img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
 </a>
-</font>
