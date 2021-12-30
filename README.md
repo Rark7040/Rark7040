@@ -18,18 +18,6 @@
 
 
 </pre>
-<span>
-<table align="left">
-  <tr>
-    <td> <strong> やってること </strong>
-  <tr>
-    <td> <table>
-    <tr><td> PocketMine-MP
-    <tr><td> Unity
-    <tr><td> ConsoleApp
-    <tr><td> Mico Car
-    </table>
-</table>
 
 <table align="left">
   <tr>
@@ -42,7 +30,18 @@
     <tr><td> Mico Car
     </table>
 </table>
-</span>
+<img src="" alt="" width="100" height="100">
+<table align="left">
+  <tr>
+    <td> <strong> やってること </strong>
+  <tr>
+    <td> <table>
+    <tr><td> PocketMine-MP
+    <tr><td> Unity
+    <tr><td> ConsoleApp
+    <tr><td> Mico Car
+    </table>
+</table>
       
 <a href="graph">
   <img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
