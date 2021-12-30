@@ -4,8 +4,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=50.01% align="right"/>
 </a>
 
-<pre width=70% height="200"><strong>
-いけめんです☆
+<pre width=70% height="200"><strong>いけめんです☆
+
 </strong></pre>
 
 <div width=50%>
