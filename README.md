@@ -18,6 +18,7 @@
 
 
 </pre>
+<img src="" alt="" width="10" height="3" align="left">
 
 <table align="left">
   <tr>
@@ -32,7 +33,7 @@
 </table>
       
 <img src="" alt="" width="10" height="3" align="left">
-      
+ 
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
