@@ -31,7 +31,7 @@
     </table>
 </table>
       
-<img src="" alt="" width="10" height="0" align="left">
+<img src="" alt="" width="10" height="3" align="left">
       
 <table align="left">
   <tr>
