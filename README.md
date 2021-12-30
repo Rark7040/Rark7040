@@ -19,7 +19,7 @@
 
 
 </pre>
-<table>
+<table align="left">
   <tr>
     <td> <strong> やってること </strong>
   <tr>
@@ -30,7 +30,7 @@
     <tr><td> Mico Car
     </table>
 </table>
-<table>
+<table align="left">
   <tr>
     <td> <strong> やってること </strong>
   <tr>
