@@ -30,8 +30,8 @@
     <tr><td> Mico Car
     </table>
 </table>
-<div align="left"></div>
-<mg src="https://twitter.com/RarkHopper/photo" width="300" height="200" hspace="5">
+
+
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
