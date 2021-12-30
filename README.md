@@ -30,7 +30,9 @@
     <tr><td> Mico Car
     </table>
 </table>
-<img src="" alt="" width="100" height="100">
+      
+<img src="" alt="" width="10" height="0" align="left">
+      
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
