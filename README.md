@@ -30,7 +30,7 @@
     <tr><td> Mico Car
     </table>
 </table>
-<div align="left"></div>
+<div align="left" style="padding-:15px;"></div>
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
