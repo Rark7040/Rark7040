@@ -10,12 +10,13 @@
 </a>
 
 <div "background-color: #333333;">
-### GENRE
+  ### GENRE
 
-- PocketMine-MP
-- Unity
-- ConsoleApp
-- Micon Car 
+  - PocketMine-MP
+  - Unity
+  - ConsoleApp
+  - Micon Car 
+</div
 
 
 <a href="graph">
