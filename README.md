@@ -20,7 +20,7 @@
 </pre>
 <table align="left">
   <tr>
-    <td> <strong> やってること </strong>
+    <td> <strong align="center"> やってること </strong>
   <tr>
     <td> <table>
     <tr><td> PocketMine-MP
