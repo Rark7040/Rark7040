@@ -10,7 +10,7 @@
 </a>
 
 <table>
-  <tr><td> <strong> GENRE </strong> <tr><td> <strong> Lang </strong>
+  <tr><td> <strong> GENRE </strong> <tr><td>
   <table>
     <tr><td> PocketMine-MP
     <tr><td> Unity
