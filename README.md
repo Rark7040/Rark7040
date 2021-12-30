@@ -9,11 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=51% align="right"/>
 </a>
 
-### GENRE
+<table>
+<tr><td>### GENRE
   - PocketMine-MP
   - Unity
   - ConsoleApp
   - Mico Car 
+</table>
  
 <table>
 <tr><td>№<td>色<td>値
