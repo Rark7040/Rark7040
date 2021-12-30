@@ -1,7 +1,7 @@
 # Hello World!!
 <a href="stat">
 	<img src="https://github-readme-stats.vercel.app/api?username=rark7040&show_icons=true&theme=react&count_private=true&include_all_commits=true" width=30% align="right" />
-	<img src="" alt="" width=10% height="1" align="left">
+	<img src="" alt="" width=10% height="1" align="right">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=30% align="right"/>
 </a>
 
