@@ -10,8 +10,8 @@
 </a>
 
 <table>
-  <tr><td> <strong> GENRE </strong> <tr><td>
-  <table>
+  <tr><td> <strong> GENRE </strong> <td> LANG
+  <tr><td> <table>
     <tr><td> PocketMine-MP
     <tr><td> Unity
     <tr><td> ConsoleApp
