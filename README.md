@@ -30,7 +30,9 @@
     <tr><td> Mico Car
     </table>
 </table>
-<table align="left"></table>
+<table align="left">
+  <tr>
+</table>
 
 <table align="left">
   <tr>
