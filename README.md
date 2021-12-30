@@ -10,7 +10,7 @@
 </a>
 
 <table>
-  <tr><td> <strong> GENRE </strong> <td> Familiar language
+  <tr><td> <strong> やってること </strong> <td> よく使う言語
   <tr>
     <td> <table>
     <tr><td> PocketMine-MP
