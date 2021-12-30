@@ -10,8 +10,9 @@
 
 
 </b></pre>
-<img src="" alt="" width=450 height=200 align="left">
+<img src="" alt="" width=300 height=1>
 </div>
+
 <table align="left" height=200>
 	<tr>
 		<td><b><div align="center">やってること</div></b>
