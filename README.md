@@ -18,16 +18,16 @@
   - Mico Car 
 </div
 
-| № | 色 | 値 |
-|:-:|:-:|:-:|
-|1<td bgcolor=white>white|#ffffff|
-|2<td bgcolor=black><font color=white>black|#000000|
-|3<td bgcolor=red><font color=white>red|#0000ff|
-|4<td bgcolor=blue><font color=white>blue|#ffff00|
-|5<td bgcolor=yellow>yellow|#ffff00|
-|6<td bgcolor=green><font color=white>green|#ffff00|
-|7<td bgcolor=orange>orange|#ffff00|
-|8<td bgcolor=pink>pink|#ffff00|
+|№|色|値|
+|:--:|:--:|:--:|
+|1|white|#ffffff|
+|2|black|#000000|
+|3|red|#ff0000|
+|4|blue|#0000ff|
+|5|yellow|#ffff00|
+|6|gree|#008000|
+|7|orange|#ffa500|
+|8|pink|#ffc0cb|
 
 <a href="graph">
   <img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
