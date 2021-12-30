@@ -13,30 +13,28 @@
 
 
 </strong></pre>
-<div width=50%>
-	<table align="left" height=200>
-		<tr>
-			<td><strong><div align="center">やってること</div></strong>
-		<tr>
-		<td> <table>
+<table align="left" height=200>
+	<tr>
+		<td><strong><div align="center">やってること</div></strong>
+	<tr>
+	<td> <table>
 		<tr><td> PocketMine-MP
 		<tr><td> Unity
 		<tr><td> ConsoleApp
 		<tr><td> Micom Car
-		</table>
 	</table>
-	<img src="" alt="" width=10 height=1 align="left">
-	<table align="left" height=200>
-		<tr>
+</table>
+<img src="" alt="" width=10 height=1 align="left">
+<table align="left" height=200>
+	<tr>
 		<td> <strong><div align="center">好きな言語</div> </strong>
-		<tr>
-		<td> <table>
+	<tr>
+	<td> <table>
 		<tr><td> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<tr><td> C#
 		<tr><td> PHP
-		</table>
+	</table>
 </table>
-</div>
 <a href="graph">
 	<img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
 </a>
