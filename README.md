@@ -10,7 +10,7 @@
 </a>
 
 ### GENRE
-<table width=20%>
+<table width=100%>
   <tr><td> <strong> PocketMine-MP </strong>
   <tr><td> <strong> Unity </strong>
   <tr><td> <strong> ConsoleApp </strong>
