@@ -14,8 +14,8 @@
 
 </strong></pre>
 
-<div = align="left" width=700>
-	<table height=200 width=240>
+<div = align="left">
+	<table align="left" height=200>
 		<tr>
 			<td><strong><div align="center">やってること</div></strong>
 		<tr>
@@ -26,8 +26,8 @@
 			<tr><td> Micom Car
 		</table>
 	</table>
-	<img src="" alt="" width=20 height=1 align="left">
-	<table height=200 width=240>
+	<img src="" alt="" width=10 height=1 align="left">
+	<table align="left" height=200>
 		<tr>
 			<td> <strong><div align="center">好きな言語</div> </strong>
 		<tr>
