@@ -9,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=51% align="right"/>
 </a>
 
+<div "background-color: #333333;">
 ### GENRE
 
 - PocketMine-MP
