@@ -18,7 +18,7 @@
   - Mico Car 
 </div
 
-|№|色|値|
+| № | 色 | 値 |
 |:-:|:-:|:-:|
 |1<td bgcolor=white>white|#ffffff|
 |2<td bgcolor=black><font color=white>black|#000000|
