@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=51% align="right"/>
 </a>
 
-<table>
+<table witdh=20%>
 <tr><td> GENRE
   <tr><td> <strong> PocketMine-MP </strong>
   <tr><td> <strong> Unity </strong>
