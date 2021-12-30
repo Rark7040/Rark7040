@@ -12,9 +12,9 @@
 <table>
 <tr><td> GENRE
   <tr><td> <strong> PocketMine-MP </strong>
-  <tr><td> Unity
-  <tr><td> ConsoleApp
-  <tr><td> Mico Car 
+  <tr><td> <strong> Unity </strong>
+  <tr><td> <strong> ConsoleApp </strong>
+  <tr><td> <strong> Mico Car </strong>
 </table>
 
 
