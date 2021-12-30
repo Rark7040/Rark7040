@@ -7,14 +7,6 @@
 <pre width=70% height="200"><strong>
 いけめんです☆
 
-
-
-
-
-
-
-
-
 </strong></pre>
 
 <table align="left">
