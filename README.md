@@ -31,8 +31,8 @@
 			<td> <b><div align="center">好きな言語</div> </b>
 		<tr>
 		<td> <table>
-			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20 height=20 align="left"> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.ico.png" alt="" width=20 height=20 align="left"> C#
+			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.ico.png" alt="" width=20 height=20 align="left"> C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20 height=20 align="left"> Rust
 			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=20 height=20 align="left"> PHP
 		</table>
 	</table>
