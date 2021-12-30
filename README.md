@@ -30,9 +30,9 @@
 		<td> <strong><div align="center">好きな言語</div> </strong>
 	<tr>
 	<td> <table>
-		<tr><td> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<tr><td> C#
-		<tr><td> PHP
+		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=3 height=3 align="left"> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.png" alt="" width=3 height=3 align="left"> C#
+		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=3 height=3 align="left"> PHP
 	</table>
 </table>
 <a href="graph">
