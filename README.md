@@ -8,4 +8,4 @@
   
 </a>
 
-[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=suhailkakar&theme=react-dark)](https://github.com/rark7040)
+[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark)](https://github.com/rark7040)
