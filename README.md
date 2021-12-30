@@ -48,7 +48,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
 </a>
       
-      <style>
+<style>
 .example input:first-of-type{
     margin-right: 100px;
 }
@@ -56,6 +56,4 @@
     text-align: center;
 }
 </style>
-<div class="example">
-    <input type="button" value="戻る"><input type="button" value="送信">
-</div>
+
