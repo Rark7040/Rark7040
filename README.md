@@ -5,8 +5,8 @@
 </a>
 
 <pre>
-	<strong>
-		いけめんです
+<strong>
+いけめんです
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-	</strong>
+</strong>
 </pre>
 
 <table align="left">
