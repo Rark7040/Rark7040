@@ -10,7 +10,7 @@
 </a>
 
 <table>
-  <tr><td> <strong> GENRE </strong>
+  <tr><td> <strong> GENRE </strong> <tr><td> <strong> Lang </strong>
   <table>
     <tr><td> PocketMine-MP
     <tr><td> Unity
@@ -18,7 +18,6 @@
     <tr><td> Mico Car
   </table>
       
-   <tr><td> <strong> Lang </strong>
 </table>
 
 
