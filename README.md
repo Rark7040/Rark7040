@@ -31,7 +31,7 @@
     </table>
 </table>
 <div align="left"></div>
-<mg src="" width="300" height="200" hspace="5">
+<mg src="https://twitter.com/RarkHopper/photo" width="300" height="200" hspace="5">
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
