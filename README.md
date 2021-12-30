@@ -30,7 +30,6 @@
     <tr><td> Mico Car
     </table>
 </table>
-
 <table>
   <tr>
     <td> <strong> やってること </strong>
