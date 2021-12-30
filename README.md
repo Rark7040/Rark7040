@@ -37,7 +37,7 @@
     <td> <strong><div align="center">好きな言語</div> </strong>
   <tr>
     <td> <table>
-    <tr><td> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <tr><td> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <tr><td> C#
     <tr><td> PHP
     </table>
