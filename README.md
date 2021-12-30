@@ -9,8 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=51% align="right"/>
 </a>
 
+### GENRE
 <table width=20%>
-<tr><td> GENRE
   <tr><td> <strong> PocketMine-MP </strong>
   <tr><td> <strong> Unity </strong>
   <tr><td> <strong> ConsoleApp </strong>
