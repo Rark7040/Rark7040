@@ -11,8 +11,7 @@
 
 
 <pre>
-さいきょう つよつよ いけめんpmmper
-<table align="left">
+<table>
   <tr>
     <td> <strong> やってること </strong>
   <tr>
@@ -23,7 +22,8 @@
     <tr><td> Mico Car
     </table>
 </table>
-<table align="left">
+
+<table>
   <tr>
     <td> <strong> やってること </strong>
   <tr>
