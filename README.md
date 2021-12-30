@@ -31,6 +31,7 @@
     </table>
 </table>
 <div align="left"></div>
+<mg src="" width="300" height="200" hspace="5">
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
