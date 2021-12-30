@@ -21,7 +21,7 @@
     </table>
 </table>
       
-<table align="left">
+<table align="left" width=51%>
   <tr>
     <td> <strong> やってること </strong>
   <tr>
