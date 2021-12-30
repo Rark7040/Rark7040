@@ -20,7 +20,9 @@
     <tr><td> Mico Car
     </table>
 </table>
-<pre>    </pre>
+<pre>
+さいきょう つよつよ いけめんpmmper
+</pre>
 <table align="left">
   <tr>
     <td> <strong> やってること </strong>
