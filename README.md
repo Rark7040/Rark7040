@@ -9,12 +9,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=51% align="right"/>
 </a>
 
-### GENRE
-<table width=100%>
-  <tr><td> <strong> PocketMine-MP </strong>
-  <tr><td> <strong> Unity </strong>
-  <tr><td> <strong> ConsoleApp </strong>
-  <tr><td> <strong> Mico Car </strong>
+<table>
+  ### GENRE
+  <table>
+    <tr><td> <strong> PocketMine-MP </strong>
+    <tr><td> <strong> Unity </strong>
+    <tr><td> <strong> ConsoleApp </strong>
+    <tr><td> <strong> Mico Car </strong>
+  </table>
 </table>
 
 
