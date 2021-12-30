@@ -13,28 +13,31 @@
 
 
 </strong></pre>
-<table align="left" height=200>
-	<tr>
-		<td><strong><div align="center">やってること</div></strong>
-	<tr>
-	<td> <table>
-		<tr><td> PocketMine-MP
-		<tr><td> Unity
-		<tr><td> ConsoleApp
-		<tr><td> Micom Car
+
+<div = align="left">
+	<table align="left" height=200>
+		<tr>
+			<td><strong><div align="center">やってること</div></strong>
+		<tr>
+		<td> <table>
+			<tr><td> PocketMine-MP
+			<tr><td> Unity
+			<tr><td> ConsoleApp
+			<tr><td> Micom Car
+		</table>
 	</table>
-</table>
-<img src="" alt="" width=10 height=1 align="left">
-<table align="left" height=200>
-	<tr>
-		<td> <strong><div align="center">好きな言語</div> </strong>
-	<tr>
-	<td> <table>
-		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20 height=20 align="left"> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.ico.png" alt="" width=20 height=20 align="left"> C#
-		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=20 height=20 align="left"> PHP
+	<img src="" alt="" width=10 height=1 align="left">
+	<table align="left" height=200>
+		<tr>
+			<td> <strong><div align="center">好きな言語</div> </strong>
+		<tr>
+		<td> <table>
+			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20 height=20 align="left"> Rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.ico.png" alt="" width=20 height=20 align="left"> C#
+			<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=20 height=20 align="left"> PHP
+		</table>
 	</table>
-</table>
+</div>
 <a href="graph">
 	<img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
 </a>
