@@ -10,7 +10,7 @@
 </a>
 
 <table>
-  <tr><td> <strong> GENRE </strong> <td> LANG
+  <tr><td> <strong> GENRE </strong> <td> Familiar language
   <tr>
     <td> <table>
     <tr><td> PocketMine-MP
