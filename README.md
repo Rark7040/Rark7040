@@ -5,7 +5,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=30% align="right"/>
 </a>
 
-<pre><strong>
+<pre width=50%><strong>
 いけめんです☆
 
 
