@@ -29,8 +29,8 @@
 	<tr>
 	<td> <table>
 		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.ico.png" alt="" width=20 height=20 align="left"> C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20 height=20 align="left"> Rust
-		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=20 height=20 align="left"> PHP
+		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20px height=20px align="left"> Rust
+		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=20px height=20px align="left"> PHP
 	</table>
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100vw/>
