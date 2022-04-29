@@ -22,7 +22,6 @@
 		<tr><td> Micom Car
 	</table>
 </table>
-<img src="" alt="" width=10 height=1 align="left">
 <table align="left" height=200>
 	<tr>
 		<td> <b><div align="center">好きな言語</div> </b>
@@ -33,4 +32,3 @@
 		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=20px height=20px align="left"> PHP
 	</table>
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=rark7040&theme=react-dark" width=100vw/>
