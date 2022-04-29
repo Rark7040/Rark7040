@@ -11,7 +11,7 @@
 
 </b></pre>
 
-<table align="left" height=200>
+<table align="left" height=200 margin-right=10px>
 	<tr>
 		<td><b><div align="center">やってること</div></b>
 	<tr>
@@ -28,7 +28,7 @@
 		<td> <b><div align="center">好きな言語</div> </b>
 	<tr>
 	<td> <table>
-		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.ico.png" alt="" width=20 height=20 align="left"> C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/cs.ico.png" alt="" width=20px height=20px align="left"> C#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/rust.png" alt="" width=20px height=20px align="left"> Rust
 		<tr><td><img src="https://github.com/Rark7040/Rark7040/blob/main/assets/php.png" alt="" width=20px height=20px align="left"> PHP
 	</table>
