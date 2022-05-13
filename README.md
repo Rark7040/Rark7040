@@ -1,6 +1,6 @@
 # Hello World!!
 <img src="https://github-readme-stats.vercel.app/api?username=rark7040&show_icons=true&theme=react&count_private=true&include_all_commits=true" width=478 align="right" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=478 align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rark7040&layout=compact&theme=react" width=70vw align="right"/>
 
 <pre font-size=1.9rem><b>PMMPerです。
 現在はFallenDeadというコンテンツの
