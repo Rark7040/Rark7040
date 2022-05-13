@@ -11,7 +11,7 @@
 
 </b></pre>
 
-<table align="left" height=200 margin-right=10px>
+<table align="left" height=200 margin-right=10px padding-right=10px>
 	<tr>
 		<td><b><div align="center">やってること</div></b>
 	<tr>
@@ -21,6 +21,7 @@
 		<tr><td> Micom Car
 	</table>
 </table>
+			
 <table align="left" height=200>
 	<tr>
 		<td> <b><div align="center">好きな言語</div> </b>
