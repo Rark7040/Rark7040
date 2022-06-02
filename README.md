@@ -33,4 +33,4 @@
 	</table>
 </table>
 			
-<img src="https://github.com/Rark7040/Rark7040/blob/main/assets/vibribbon.gif" alt="" width=20px height=20px align="left"> 
+<img src="https://github.com/Rark7040/Rark7040/blob/main/assets/vibribbon.gif" alt="" width=200px height=200px align="left"> 
